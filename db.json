@@ -4,19 +4,19 @@
       "title": "App title 1",
       "published": true,
       "user": "Netfront",
-      "rating": 2.3750000037269956,
+      "rating": 2.6880654543638234,
       "id": 1
     },
     {
       "title": "App title 2",
       "published": true,
       "user": "Netfront",
-      "rating": 3,
+      "rating": 3.25,
       "id": 2
     },
     {
-      "title": "App title 9",
-      "published": true,
+      "title": "App title 3",
+      "published": false,
       "user": "Netfront",
       "rating": 3.25,
       "id": 3
@@ -30,7 +30,7 @@
     },
     {
       "title": "App title 5",
-      "published": true,
+      "published": false,
       "user": "Netfront",
       "rating": 3,
       "id": 5
@@ -39,14 +39,14 @@
       "title": "App title 6",
       "published": true,
       "user": "Netfront",
-      "rating": 1,
+      "rating": 3,
       "id": 6
     },
     {
       "title": "App title 7",
       "published": true,
       "user": "Netfront",
-      "rating": 1,
+      "rating": 3,
       "id": 7
     },
     {
